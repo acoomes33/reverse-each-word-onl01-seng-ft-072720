@@ -6,3 +6,5 @@ def reverse_each_word(sentence)
   end
 reverse_sent.join(" ")
 end
+
+def reverse_collect(sentence)
